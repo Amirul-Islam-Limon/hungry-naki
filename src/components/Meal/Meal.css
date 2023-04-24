@@ -1,0 +1,8 @@
+.meal img{
+    width:250px;
+}
+.meal{
+    border: 1px solid orange;
+    border-radius: 7px;
+    padding: 8px;
+}
